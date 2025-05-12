@@ -1,0 +1,61 @@
+
+---------------------
+Račun za termin:
+Datum: 09-05-2025
+Vrijeme: 11:19:06
+Usluga: Manikura
+Ime: ivanko
+Cijena: 30
+------------------------
+Račun za termin:
+Datum: 09-05-2025
+Vrijeme: 11:19:29
+Usluga: Pedikura
+Cijena: 40
+
+------------------------
+Račun za termin:
+Datum: 09-05-2025
+Vrijeme: 11:24:21
+Usluga: Manikura
+Cijena: 30
+
+---------------------
+Račun za termin:
+Datum: 11-05-2025
+Vrijeme: 17:27:13
+Usluga: Manikura
+Ime: ivanko
+Cijena: 30
+---------------------
+Račun za termin:
+Datum: 12-05-2025
+Vrijeme: 08:11:30
+Usluga: Bojanje
+Ime: netko
+Cijena: 120.0
+---------------------
+Račun za termin:
+Datum: 12-05-2025
+Vrijeme: 08:42:48
+Usluga: Pedikura
+Ime: ivanko
+Cijena: 40
+------------------------
+Račun izdan:
+Datum ispisa: 12-05-2025
+Vrijeme ispisa: 08:47:49
+------------------------
+Detalji termina:
+Datum termina: 12-05-2025
+Vrijeme termina: 08:47:49
+Usluga: Bojanje
+Cijena: 120
+
+---------------------
+Račun za termin:
+Datum: 12-05-2025
+Vrijeme: 10:23:31
+Usluga: Bojanje
+Ime: netko
+Cijena: 120
